@@ -1,4 +1,4 @@
-# gatsby-starter-deck
+# gatsby-deck-template
 
 [![dependencies](https://img.shields.io/david/fabe/gatsby-starter-deck.svg)](./package.json)
 [![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
@@ -13,13 +13,13 @@ Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch
 ### With [`gatsby-cli`](https://www.npmjs.com/package/gatsby-cli)
 
 ```bash
-$ gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+$ gatsby new my-slides https://github.com/whoisryosuke/gatsby-deck-template
 ```
 
 ### With `git clone`
 
 ```bash
-$ git clone git@github.com:fabe/gatsby-starter-deck.git my-slides
+$ git clone git@github.com:whoisryosuke/gatsby-deck-template.git
 $ cd my-slides
 $ yarn
 ```
@@ -60,3 +60,4 @@ Examples:
 - Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
 - Frank Murphy ([AnIrishDuck](https://github.com/AnIrishDuck))
 - Stefan Probst ([stefanprobst](https://github.com/stefanprobst))
+- Ryosuke Hana ([@whoisryosuke](http://github.com/whoisryosuke))
