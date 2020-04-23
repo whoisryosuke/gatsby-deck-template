@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Link, navigate, StaticQuery, graphql } from 'gatsby';
-import Helmet from 'react-helmet';
-import Swipeable from 'react-swipeable';
+import { Helmet } from 'react-helmet';
+import { Swipeable } from 'react-swipeable';
 import Transition from '../components/transition';
 
 import './index.css';
