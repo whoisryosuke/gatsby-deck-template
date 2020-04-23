@@ -4,6 +4,7 @@
   --accent: rgb(0, 92, 221);
   --text: #FAFAFA;
   --base: 1.5rem;
+  --code: 1rem;
   --heading-font-family: "Poppins";
   --heading-font-weight: 800;
 }
@@ -103,7 +104,7 @@ cite::before {
 }
 
 pre {
-  font-size: 70%;
+  font-size: 0.75em !important;
 
   display: inline-block;
   overflow-x: scroll;
@@ -117,7 +118,6 @@ pre {
 
 code {
   font-family: menlo, monospace;
-  font-size: 90%;
 }
 
 a:hover {
